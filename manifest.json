@@ -1,0 +1,12 @@
+{
+
+"name": "WDX adblocker",
+"version": "beta",
+"description": "a basic adblocker",
+"permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+"background": {
+    
+}
+
+
+}
